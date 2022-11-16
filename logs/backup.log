@@ -1,0 +1,174 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221031_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-10-31 12:00:03.029117
+Config  : ./exam.com/private/backups/20221031_120002-exam_com-site_config_backup.json 94.0B
+Database: ./exam.com/private/backups/20221031_120002-exam_com-database.sql.gz         1.0MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221031_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-10-31 18:00:02.908933
+Config  : ./exam.com/private/backups/20221031_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221031_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221101_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-01 12:00:03.376707
+Config  : ./exam.com/private/backups/20221101_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221101_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221101_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-01 18:00:03.732177
+Config  : ./exam.com/private/backups/20221101_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221101_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221102_120001-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-02 12:00:02.606029
+Config  : ./exam.com/private/backups/20221102_120001-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221102_120001-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221102_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-02 18:00:03.103841
+Config  : ./exam.com/private/backups/20221102_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221102_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221103_120001-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-03 12:00:02.561270
+Config  : ./exam.com/private/backups/20221103_120001-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221103_120001-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221103_180001-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-03 18:00:02.873032
+Config  : ./exam.com/private/backups/20221103_180001-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221103_180001-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221104_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-04 12:00:04.732443
+Config  : ./exam.com/private/backups/20221104_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221104_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221104_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-04 18:00:04.050113
+Config  : ./exam.com/private/backups/20221104_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221104_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221105_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-05 12:00:04.576471
+Config  : ./exam.com/private/backups/20221105_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221105_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221105_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-05 18:00:04.532287
+Config  : ./exam.com/private/backups/20221105_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221105_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221107_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-07 12:00:04.102073
+Config  : ./exam.com/private/backups/20221107_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221107_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221107_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-07 18:00:04.302778
+Config  : ./exam.com/private/backups/20221107_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221107_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221108_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-08 12:00:04.426199
+Config  : ./exam.com/private/backups/20221108_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221108_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221108_180003-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-08 18:00:05.169357
+Config  : ./exam.com/private/backups/20221108_180003-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221108_180003-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221109_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-09 12:00:04.595259
+Config  : ./exam.com/private/backups/20221109_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221109_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221109_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-09 18:00:05.512530
+Config  : ./exam.com/private/backups/20221109_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221109_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221110_120003-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-10 12:00:04.319465
+Config  : ./exam.com/private/backups/20221110_120003-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221110_120003-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221110_180003-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-10 18:00:05.698055
+Config  : ./exam.com/private/backups/20221110_180003-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221110_180003-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221111_120004-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-11 12:00:09.131501
+Config  : ./exam.com/private/backups/20221111_120004-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221111_120004-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221111_180003-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-11 18:00:07.187647
+Config  : ./exam.com/private/backups/20221111_180003-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221111_180003-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221112_120003-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-12 12:00:07.414077
+Config  : ./exam.com/private/backups/20221112_120003-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221112_120003-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221112_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-12 18:00:05.143464
+Config  : ./exam.com/private/backups/20221112_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221112_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221114_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-14 12:00:06.488211
+Config  : ./exam.com/private/backups/20221114_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221114_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221114_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-14 18:00:06.033217
+Config  : ./exam.com/private/backups/20221114_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221114_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221115_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-15 12:00:06.096105
+Config  : ./exam.com/private/backups/20221115_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221115_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221115_180002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-15 18:00:04.667702
+Config  : ./exam.com/private/backups/20221115_180002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221115_180002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _d16369cb0695a2c8 -p********** _d16369cb0695a2c8 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./exam.com/private/backups/20221116_120002-exam_com-database.sql.gz
+
+Backup Summary for exam.com at 2022-11-16 12:00:05.298981
+Config  : ./exam.com/private/backups/20221116_120002-exam_com-site_config_backup.json 116.0B
+Database: ./exam.com/private/backups/20221116_120002-exam_com-database.sql.gz         1.1MiB
+Backup for Site exam.com has been successfully completed
